@@ -1,4 +1,4 @@
-# [pflag]('https://github.com/spf13/pflag') for [logrus](https://github.com/sirupsen/logrus)
+# [pflag](https://github.com/spf13/pflag) for [logrus](https://github.com/sirupsen/logrus)
 
 ##
 
