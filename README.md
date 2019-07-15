@@ -10,7 +10,7 @@ cmd := &cobra.Command{
     Use: "my-command",
     RunE: func(cmd *cobra.Command, args []string) error {
         
-        logrus.SetLevel(LogLevel)
+        logrus.SetLevel(logLevel)
         
         return cmd.Usage()
     },
